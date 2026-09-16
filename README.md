@@ -102,7 +102,7 @@ plt.show()
 ```
 <img width="1903" height="1390" alt="BF10_U_test (1)" src="https://github.com/user-attachments/assets/e9ff5cae-c947-48e4-9603-3c22e3a59ae8" />
 
-*Figure: False-positive rate as a function of per-group sample size, for the classical Mann-Whitney U test (p < 0.05) vs. the Bayesian rank sum test (BF10 > 3), under a negligible true effect size (≈0.033). Run the code above and the figure will be saved as `type1_error_comparison.png` in the working directory — place that file alongside this README for the image above to render.*
+*Figure: False-positive rate as a function of per-group sample size, for the classical Mann-Whitney U test (p < 0.05) vs. the Bayesian rank sum test (BF10 > 3), under a negligible true effect size (≈0.033).*
 
 ## Requirements
 
